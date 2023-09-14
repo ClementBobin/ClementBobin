@@ -24,10 +24,14 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 
 # 📊 GitHub Stats:
 [![GitHub Game of Life](https://github4life.herokuapp.com/ClementBobin.gif?z=6)](https://github4life.herokuapp.com/ClementBobin)<br />
-(Be sure to click on it for the infinite scrolling version.)
-![](https://github-readme-stats.vercel.app/api?username=ClementBobin&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ClementBobin&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBobin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    <div style="display: flex; flex-direction: column; align-items: center;">
+    (Be sure to click on it for the infinite scrolling version.)
+        <div style="display: flex; flex-direction: row;">
+            <img src="https://github-readme-stats.vercel.app/api?username=ClementBobin&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBobin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClementBobin&theme=react&hide_border=false">
+        </div>
+    </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ClementBobin&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
