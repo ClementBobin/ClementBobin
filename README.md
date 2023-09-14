@@ -7,18 +7,13 @@ Web Developer, Fontend Developer and Backend Developer
 I've been learning to code for 6 years. I started with HTML, but have really found a passion for Devop fullstack
 
 # 💫 About Me:
-*   🔭 I’m currently working on my portfolio
-*   👯 I’m looking to collaborate on my obsidian markdown
-*   🤝 I’m looking for help
-*   🌱 I’m currently learning encryption algorithm
-*   💬 You can ask me about knowledge on React <br>
-*    ⚡ I LOVE code
 *   🌍  I'm based in France
+*   🚀  I'm currently working on [My porfolio](http://myapp.com)
+*   🤝  I'm open to collaborating on interesting projects
+*   🧠  I'm learning a new language: Htmx
+*   💬 You can ask me about knowledge on React
 *   🖥️  See my portfolio at [My Portfolio](http://myapp.com)
 *   ✉️  You can contact me at [clementbobin21@gmail.com](mailto:clementbobin21@gmail.com)
-*   🚀  I'm currently working on [My porfolio](http://myapp.com)
-*   🧠  I'm learning a new language: Htmx
-*   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm secretly a programmer... but don't tell anyone. Whenever I see a bug, I don't squish it – I just start debugging!
 
 
