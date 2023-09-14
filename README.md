@@ -34,6 +34,7 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=ClementBobin&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ClementBobin&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
