@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer, Fontend Developer and Backend Developer
 ------------------------------------------------------
-
 I've been learning to code for 6 years. I started with HTML, but have really found a passion for Devop fullstack
 
 # 💫 About Me:
@@ -42,7 +41,7 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ClementBobin&icon=5&color=8)](https://visitcount.itsvg.in)
-<a href="https://www.github.com/ClementBobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ClementBobin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/ClementBobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ClementBobin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><img src="https://profile-counter.glitch.me/ClementBobin/count.svg" />
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ClementBobin)
