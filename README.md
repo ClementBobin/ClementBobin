@@ -34,22 +34,25 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ClementBobin&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center;">
-  <div>
-    <h2>✍️ Random Dev Quote</h2>
+<table>
+  <tr>
+    <th>✍️ Random Dev Quote</th>
+    <th>🔝 Top Contributed Repo</th>
+    <th>😂 Random Dev Meme</th>
+  </tr>
+  <tr>
+   <th>
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight">
-  </div>
+   </th>
+   <th>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClementBobin&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+   </th>  
+   <th>
+      <img src='https://randommeme-five.vercel.app/' style="height: 400px;">
+    </th>
+    </tr> 
+</table>
 
-  <div>
-    <h2>🔝 Top Contributed Repo</h2>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClementBobin&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
-  </div>
-
-  <div>
-    <h2>😂 Random Dev Meme</h2>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;">
-  </div>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ClementBobin&icon=5&color=8)](https://visitcount.itsvg.in)
