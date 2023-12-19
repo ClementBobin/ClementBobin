@@ -7,12 +7,10 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 
 # 💫 About Me:
 *   🌍  I'm based in France
-*   🚀  I'm currently working on [My porfolio](https://portfolio-clement.vercel.app)
+*   🚀  I'm currently working on [My blog](https://github.com/ClementBobin/blog)
 *   🤝  I'm open to collaborating on interesting projects
-*   🧠  I'm learning a new language: Htmx
 *   💬 You can ask me about knowledge on React
-*   🖥️  See my portfolio at [My Portfolio](https://portfolio-clement.vercel.app
-)
+*   🖥️  See my portfolio at [My Portfolio](https://portfolio-clement.vercel.app)
 *   ✉️  You can contact me at [clementbobin21@gmail.com](mailto:clementbobin21@gmail.com)
 *   ⚡  I'm secretly a programmer... but don't tell anyone. Whenever I see a bug, I don't squish it – I just start debugging!
 
