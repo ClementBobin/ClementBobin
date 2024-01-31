@@ -7,7 +7,7 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 
 # 💫 About Me:
 *   🌍  I'm based in France
-*   🚀  I'm currently working on [My blog](https://github.com/ClementBobin/blog)
+*   🚀  I'm currently working on [My Docker flake](https://github.com/ClementBobin/dockerFlake)
 *   🤝  I'm open to collaborating on interesting projects
 *   💬 You can ask me about knowledge on React
 *   🖥️  See my portfolio at [My Portfolio](https://portfolio-clement.vercel.app)
