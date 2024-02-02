@@ -51,10 +51,12 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
    <th>
      <img src="https://github-contributor-stats.vercel.app/api?username=ClementBobin&limit=5&theme=dark&combine_all_yearly_contributions=true">
    </th>  
-   <th>
+   <th rowspan="2">
       <img src='https://randommeme-five.vercel.app/' style="height: 400px;">
     </th>
-    </tr> 
+    </tr>
+    <tr>
+    </tr>
 </table>
 
 
