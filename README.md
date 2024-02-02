@@ -28,10 +28,11 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 # 📊 GitHub Stats:
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ClementBobin/ClementBobin/output/github-contribution-grid-snake.svg" />
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ClementBobin&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ClementBobin&theme=react&hide_border=false"><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBobin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br />
+<img src="https://github-readme-stats.vercel.app/api?username=ClementBobin&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true"><br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ClementBobin&theme=synthwave&hide_border=false"><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBobin&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br />
 </p><br />   
 
 ## 🏆 GitHub Trophies
