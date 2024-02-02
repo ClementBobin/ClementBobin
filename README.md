@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clement
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clement
 =====================================================================================================================================
 Web Developer, Fontend Developer and Backend Developer
 <img src="https://github.com/ClementBobin/ClementBobin/blob/main/banner.png" alt="Hello world">
@@ -48,7 +48,7 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight">
    </th>
    <th>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClementBobin&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en">
+     <img src="https://github-contributor-stats.vercel.app/api?username=ClementBobin&limit=5&theme=dark&combine_all_yearly_contributions=true">
    </th>  
    <th>
       <img src='https://randommeme-five.vercel.app/' style="height: 400px;">
