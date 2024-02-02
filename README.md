@@ -47,15 +47,15 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
   <tr>
    <th>
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight">
-   </th>
-   <th>
-     <img src="https://github-contributor-stats.vercel.app/api?username=ClementBobin&limit=5&theme=dark&combine_all_yearly_contributions=true">
    </th>  
    <th rowspan="2">
       <img src='https://randommeme-five.vercel.app/' style="height: 400px;">
     </th>
     </tr>
     <tr>
+     <th>
+       <img src="https://github-contributor-stats.vercel.app/api?username=ClementBobin&limit=5&theme=dark&combine_all_yearly_contributions=true">
+     </th>
     </tr>
 </table>
 
