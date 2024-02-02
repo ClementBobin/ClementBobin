@@ -40,8 +40,7 @@ I've been learning to code for 6 years. I started with HTML, but have really fou
 
 <table>
   <tr>
-    <th>✍️ Random Dev Quote</th>
-    <th>🔝 Top Contributed Repo</th>
+    <th>✍️ Random Dev Quote / 🔝 Top Contributed Repo</th>
     <th>😂 Random Dev Meme</th>
   </tr>
   <tr>
