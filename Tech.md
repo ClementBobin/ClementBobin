@@ -46,7 +46,7 @@
 
 ## Design Tools
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) : Collaborative interface design tool.
-- ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF): Prototyping tool for design and development.
+- ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) : Prototyping tool for design and development.
 - ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF): Open-source raster graphics editor.
 -  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13): Open-source vector graphics editor.
 
@@ -73,3 +73,7 @@
 
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) : Version control platform for collaboration and code sharing.
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white): Cloud platform for static sites and serverless functions.
+
+## OS
+
+- ![Linux](https://img.shields.io/badge/Linux-FFF?style=flat&logo=linux&logoColor=black): Open-source operating system kernel.
