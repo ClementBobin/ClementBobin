@@ -16,7 +16,7 @@ I've been learning to code for 7 years. I started with HTML, but have really fou
 
 
 ## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KernelKoder) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/RelateMirage) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/RelateMirage) [![Codewars](https://img.shields.io/badge/CodeWars-ClementBobin-pink?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/ClementBobin) [![linkedin](https://img.shields.io/badge/LinkedIn-Connect?style=flat-square&logo=linkedin)](www.linkedin.com/in/clément-bobin-958559293) [![Root Me](https://img.shields.io/badge/Root%20Me-blue?stylestyle=flat)]()
+[![Codewars](https://img.shields.io/badge/CodeWars-ClementBobin-pink?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/ClementBobin) [![linkedin](https://img.shields.io/badge/LinkedIn-Connect?style=flat-square&logo=linkedin)](www.linkedin.com/in/clément-bobin-958559293) [![Root Me](https://img.shields.io/badge/Root%20Me-blue?stylestyle=flat)]()
 
 # 💻 Tech Stack *[for more detail](https://github.com/ClementBobin/ClementBobin/blob/main/Tech.md)*:
 
