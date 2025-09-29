@@ -3,13 +3,13 @@
 Web Developer, Fontend Developer and Backend Developer
 <img src="https://github.com/ClementBobin/ClementBobin/blob/main/banner.png" alt="Hello world">
 ------------------------------------------------------
-I've been learning to code for 7 years. I started with HTML, but have really found a passion for Devop fullstack
+I've been learning to code for 9 years. I started with HTML, but have really found a passion for Devop fullstack
 
 # 💫 About Me:
 *   🌍  I'm based in France
-*   🚀  I'm currently working on [My Docker flake](https://github.com/ClementBobin/dockerFlake)
 *   🤝  I'm open to collaborating on interesting projects
-*   💬 You can ask me about knowledge on React
+*   🎓 Bachelor IT Project Coordination (DIIAGE [CUCDB]) – Apprentice at Actemium (Vinci Energies)
+*   ⚙️ Working on industrial IT & IoT projects
 *   🖥️  See my portfolio at [My Portfolio](https://portfolio-clement.vercel.app)
 *   ✉️  You can contact me at [clementbobin21@gmail.com](mailto:clementbobin21@gmail.com)
 *   ⚡  I'm secretly a programmer... but don't tell anyone. Whenever I see a bug, I don't squish it – I just start debugging!
