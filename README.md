@@ -11,7 +11,6 @@ I've been learning to code for 10 years. I started with HTML, but have really fo
 *   🎓 Bachelor IT Project Coordination ([DIIAGE [CUCDB]](https://diiage.cucdb.fr/bachelor-coordinateur-projets-informatiques/)) – Apprentice at [Actemium (Vinci Energies)](https://www.actemium.fr/implantations/actemium-dijon/presentation/)
 *   ⚙️ Working on industrial IT & IoT projects
 *   🖥️  See my portfolio at [My Portfolio](https://portfolio-clement.vercel.app)
-*   ✉️  You can contact me at [clementbobin21@gmail.com](mailto:clementbobin21@gmail.com)
 *   ⚡  I'm secretly a programmer... but don't tell anyone. Whenever I see a bug, I don't squish it – I just start debugging!
 
 
@@ -35,7 +34,7 @@ I've been learning to code for 10 years. I started with HTML, but have really fo
 </p><br />   
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ClementBobin&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ClementBobin&theme=juicyfresh&no-frame=false&column=5&no-bg=false&margin-w=4)
 
 <table>
   <tr>
