@@ -111,6 +111,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ClementBobin&icon=5&color=8" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ClementBobin&style=for-the-badge" />
 </p>
 
