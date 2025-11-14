@@ -41,6 +41,12 @@
       </a>
     </p>
     <br />
+  </td>
+</tr>
+
+<tr>
+  <!-- Projects Card (full width) -->
+  <td colspan="2" valign="top" style="background:#f5f5f5; border-radius:10px; padding:20px;">
     <h3 align="center">💻 Tech Stack</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -65,19 +71,6 @@
       <img src="https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7" />
       <img src="https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <!-- Projects Card (full width) -->
-  <td colspan="2" valign="top" style="background:#f5f5f5; border-radius:10px; padding:20px;">
-    <h3>👨‍💻 Projects</h3>
-    <p align="center">
-      <img src="work.gif" width="80%" alt="Work Examples">
-    </p>
-    <p align="center">
-      <a href="https://portfolio-clement.vercel.app">View Portfolio</a>
     </p>
   </td>
 </tr>
