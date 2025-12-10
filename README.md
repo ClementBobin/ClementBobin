@@ -49,7 +49,6 @@
   <td colspan="2" valign="top" style="background:#f5f5f5; border-radius:10px; padding:20px;">
     <h3 align="center">💻 Tech Stack</h3>
     <p align="center">
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=NixOS&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -63,12 +62,9 @@
     <p align="center">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7" />
       <img src="https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </p>
