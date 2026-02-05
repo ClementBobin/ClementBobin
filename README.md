@@ -33,9 +33,10 @@
       <a href="https://www.linkedin.com/in/clément-bobin-958559293">
         <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-      <a href="https://www.codewars.com/users/ClementBobin">
+     <!-- <a href="https://www.codewars.com/users/ClementBobin">
         <img src="https://img.shields.io/badge/CodeWars-ClementBobin-pink?style=for-the-badge&logo=codewars&logoColor=white" />
       </a>
+      -->
       <a href="https://github.com/ClementBobin">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
