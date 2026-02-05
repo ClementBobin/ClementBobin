@@ -12,7 +12,7 @@
 <!-- Bento Cards Row -->
 <table width="100%" cellspacing="15">
 <tr>
-  <!-- About Me Card -->
+  <!-- About Me Column -->
   <td width="48%" valign="top" style="background:#f5f5f5; border-radius:10px; padding:20px;">
     <h3>💫 About Me</h3>
     <ul>
@@ -26,28 +26,8 @@
     </ul>
   </td>
 
-  <!-- Socials + Tech Stack Card -->
+  <!-- Tech Stack Column -->
   <td width="48%" valign="top" style="background:#f5f5f5; border-radius:10px; padding:20px;">
-    <h3 align="center">🌐 Connect with Me</h3>
-    <p align="center">
-      <a href="https://www.linkedin.com/in/clément-bobin-958559293">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-     <!-- <a href="https://www.codewars.com/users/ClementBobin">
-        <img src="https://img.shields.io/badge/CodeWars-ClementBobin-pink?style=for-the-badge&logo=codewars&logoColor=white" />
-      </a>
-      -->
-      <a href="https://github.com/ClementBobin">
-        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-    <br />
-  </td>
-</tr>
-
-<tr>
-  <!-- Projects Card (full width) -->
-  <td colspan="2" valign="top" style="background:#f5f5f5; border-radius:10px; padding:20px;">
     <h3 align="center">💻 Tech Stack</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -72,6 +52,7 @@
   </td>
 </tr>
 </table>
+
 
 ---
 
