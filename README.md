@@ -19,7 +19,7 @@
       <li>🌍 Based in France</li>
       <li>🤝 Open to Collaborations</li>
       <li>🎓 Bachelor IT Project Coordination at <a href="https://diiage.cucdb.fr/bachelor-coordinateur-projets-informatiques/">DIIAGE</a></li>
-      <li>🏭 Apprentice at <a href="https://www.actemium.fr/implantations/actemium-dijon/presentation/">Actemium</a></li>
+      <li>🏭 Apprentice at <a href="https://www.actemium.fr/">Actemium</a></li>
       <li>⚙️ Industrial IT & IoT Projects</li>
       <li>🖥️ <a href="https://portfolio-clement.vercel.app">Portfolio</a></li>
       <li>⚡ Fun fact: I debug bugs instead of squishing them!</li>
