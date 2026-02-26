@@ -1,3 +1,0 @@
-python-chess
-Pillow
-cairosvg
