@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Clément</h1>
 <p align="center">
-  <strong>Web Developer | Frontend & Backend | DevOps & IoT Enthusiast</strong>
+  <strong>Frontend & Backend | DevOps & IoT Enthusiast</strong>
 </p>
 
 ---
