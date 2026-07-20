@@ -13,7 +13,7 @@
 <ul>
   <li>🌍 Based in France</li>
   <li>🤝 Open to Collaborations</li>
-  <li>🎓 <a href="https://diiage.cucdb.fr/bachelor-coordinateur-projets-informatiques/">Bachelor IT Project Coordination</a> at <a href="https://diiage.cucdb.fr/">DIIAGE</a></li>
+  <li>🎓 <a href="https://diiage.cucdb.fr/wp-content/uploads/sites/3/2026/01/CUCDB-DIIAGE-EADL-Ingetis-Fiche-formation-2026.pdf">MSc Expert in Software Architecture and Development</a> at <a href="https://diiage.cucdb.fr/">DIIAGE</a></li>
   <li>🏭 Apprentice at <a href="https://www.actemium.fr/">Actemium</a></li>
   <li>🖥️ <a href="https://portfolio-clement.vercel.app">Portfolio</a></li>
   <li>⚡ Fun fact: I debug bugs instead of squishing them!</li>
