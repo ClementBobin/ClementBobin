@@ -12,7 +12,7 @@
 <h3>💫 About Me</h3>
 <ul>
   <li>🌍 Based in France</li>
-  <li>🔎 <strong>Currently looking for a new apprenticeship (alternance)</strong> in Software Engineering, Full-Stack Development or DevOps</li>
+  <li>🔎 <strong>Currently working at city hall BEAUNE (alternance)</strong></li>
   <li>🤝 Open to collaborations and exciting projects</li>
   <li>🎓 Pursuing an <a href="https://diiage.cucdb.fr/wp-content/uploads/sites/3/2026/01/CUCDB-DIIAGE-EADL-Ingetis-Fiche-formation-2026.pdf">MSc Expert in Software Architecture and Development</a> at <a href="https://diiage.cucdb.fr/">DIIAGE</a></li>
   <li>🎓 Graduated with a <strong><a href="https://diiage.cucdb.fr/wp-content/uploads/sites/3/2025/05/CUCDB-DIIAGE-CPI-SupDeVinci-Fiche-formation-2025.pdf">Bachelor's Degree in IT Project Coordination</a></strong> from <a href="https://diiage.cucdb.fr/">DIIAGE</a></li>
